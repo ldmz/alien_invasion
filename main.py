@@ -23,8 +23,7 @@ class AlienInvasion:
 
 
 if __name__ == '__main__':
-    pass
 
     # Start new example and start new game
-#    ai = AlienInvasion()
- #   ai.run_game()
+    ai = AlienInvasion()
+    ai.run_game()

@@ -22,7 +22,7 @@ class AlienInvasion:
         pygame.display.flip()
 
 
-if __name__ == '__main__':
+#if __name__ == '__main__':
     # Start new example and start new game
-    ai = AlienInvasion()
-    ai.run_game()
+#    ai = AlienInvasion()
+ #   ai.run_game()

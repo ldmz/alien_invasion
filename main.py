@@ -26,7 +26,7 @@ class AlienInvasion:
                 if event.type == pygame.QUIT:
                     sys.exit()
             # remake screen in every cycle
-            self.screen.fill(self.setings.bg_color)
+            self.screen.fill(self.settings.bg_color)
             self.ship.blitme()
 
             # show last screen

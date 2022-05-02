@@ -32,7 +32,6 @@ class AlienInvasion:
             # show last screen
             pygame.display.flip()
 
-
 if __name__ == '__main__':
     # Start new example and start new game
     ai = AlienInvasion()

@@ -22,6 +22,7 @@ class AlienInvasion:
     def run_game(self):
         """Main cycle"""
         while True:
+            """keys and mouse reaction"""
             for event in pygame.event.get():
                 if event.type == pygame.QUIT:
                     sys.exit()
